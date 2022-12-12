@@ -1,2 +1,2 @@
-# TANKINATOR
+# Tankinator
 Projet Tank Arduino 
