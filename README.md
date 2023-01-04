@@ -1,2 +1,0 @@
-# Tankinator
-Projet Tank Arduino 
